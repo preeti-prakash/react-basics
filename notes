@@ -1,0 +1,8 @@
+React.js - It is about rendering and updating a user interface and handling user inputs.
+props - Data you can pass from one component to other. In other words, from parent to child and viceversa.
+components - Core UI building blocks. In brief, Javascript functions that return JSX.
+state - Data which you change inside of a component to then force this component to be re-evaluated.
+Hooks - Special functions you can execute inside of a functional components to add various functionalities to those components.
+Note - hooks do not work in classes.
+
+
