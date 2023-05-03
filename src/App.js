@@ -38,3 +38,8 @@ export default App;
 /* Whenever a new goal is added to the array , it does not appear on the main page as the react does not
  re-render the component.
 so the react needs to tell whenever there is an update made in the array it needs to re render its components.**/
+
+
+
+// fejnrfbglgn
+
